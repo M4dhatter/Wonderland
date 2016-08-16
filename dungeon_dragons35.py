@@ -1,9 +1,9 @@
 # Madhatt3r
 #
 #
-#
-#
-#
+#este programa serve para criacao de personagens em d&D ele esta me sua primeira versa, os personagens aqui criados ja estao
+#praticamente prontos para jogar porem possui alguns intens que faltam, em breve serao adiconados mais recursos e posteriormente
+#um interface grafica 
 #
 #
 #
